@@ -1,0 +1,4 @@
+steps:
+  sync-directory:
+    dags: /usr/lib/airflow/dags
+    plugins: /usr/lib/airflow/plugins
